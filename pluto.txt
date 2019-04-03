@@ -1,2 +1,5 @@
 Will you accept this file
 pls
+
+http://swcarpentry.github.io/git-novice/08-collab/index.html
+cool link yo
